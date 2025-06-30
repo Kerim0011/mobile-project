@@ -15,7 +15,7 @@ An Android-based Car Rental application built with **Kotlin**, using **Jetpack C
   - View a list of available cars
   - Add a **random test car** for demo or testing
 
-- 🗃 **Local Storage**
+- **Local Storage**
   - Room Database for offline persistence
   - Data access handled through DAO and Repository layers
 
@@ -92,8 +92,10 @@ Firebase authentication and sync (optional)
 
 UI improvements and animations
 
+
 Author
 Kerim Senderovic
+
 
 Contact
 For issues, suggestions, or collaboration, feel free to reach out on GitHub.
